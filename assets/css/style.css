@@ -106,3 +106,46 @@ p{
 #a1{
     width:600px;
 }
+
+
+
+@media screen and (max-width:980px){
+    #content{
+        width:100%;
+    }
+    h1{
+        width:40%;
+    }
+    .text{
+        width:100%;
+    }
+
+}
+@media screen and (max-width:768px){
+    #content{
+        width:100%;
+    }
+    h1{
+        width:40%
+    }
+    .text{
+        width:100%;
+    }
+
+
+
+}
+@media screen and (max-width:640px){    
+    #content{
+        width:100%;
+    }
+    h1{
+        width:40%;
+        position:static;
+    }
+    .text{
+        width:100%;
+    }
+
+
+}
