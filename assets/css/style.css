@@ -111,7 +111,7 @@ p{
 
 @media screen and (max-width:980px){
     #content{
-        width:100%;
+        width:700px;
     }
     #name{
         width:25%;
@@ -132,8 +132,9 @@ p{
 
 }
 @media screen and (max-width:768px){
+
     #content{
-        width:100%;
+        width:600px;
     }
     #name{
         width:25%
@@ -158,7 +159,7 @@ p{
 }
 @media screen and (max-width:640px){    
     #content{
-        width:100%;
+        width:400px;
     }
     #name{
         width:25%;
